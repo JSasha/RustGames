@@ -1,0 +1,12 @@
+C:\Users\Lenovo\CLionProjects\RustGames\target\debug\deps\bytemuck-60d6b492433cab27.rmeta: C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\lib.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\zeroable.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\pod.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\contiguous.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\offset_of.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\transparent.rs
+
+C:\Users\Lenovo\CLionProjects\RustGames\target\debug\deps\libbytemuck-60d6b492433cab27.rlib: C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\lib.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\zeroable.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\pod.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\contiguous.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\offset_of.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\transparent.rs
+
+C:\Users\Lenovo\CLionProjects\RustGames\target\debug\deps\bytemuck-60d6b492433cab27.d: C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\lib.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\zeroable.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\pod.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\contiguous.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\offset_of.rs C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\transparent.rs
+
+C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\lib.rs:
+C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\zeroable.rs:
+C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\pod.rs:
+C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\contiguous.rs:
+C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\offset_of.rs:
+C:\Users\Lenovo\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.4.1\src\transparent.rs:
