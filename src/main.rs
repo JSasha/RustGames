@@ -3,8 +3,8 @@ extern crate image;
 extern crate num_complex;
 
 fn main() {
-    let imgx = 800;
-    let imgy = 800;
+    let imgx = 400;
+    let imgy = 400;
 
     let scalex = 3.0 / imgx as f32;
     let scaley = 3.0 / imgy as f32;
